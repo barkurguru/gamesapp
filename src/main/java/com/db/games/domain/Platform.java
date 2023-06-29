@@ -31,8 +31,8 @@ public class Platform implements Serializable {
     private Long id;
     private String name;
     private String slug;
-    private Long gamesCount;
-    private String imageBackground;
+    private Long games_count;
+    private String image_background;
     private String image;
     private int yearStart;
     private int yearEnd;
